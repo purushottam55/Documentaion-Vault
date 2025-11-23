@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Trash/Docu002-Focalboard SOP detailed.pdf"
+                "file": "Linux-Documentations/Docu001-Assig4_prolip_SomeClinet requirements.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Docu002-Focalboard SOP detailed"
+              "title": "Docu001-Assig4_prolip_SomeClinet requirements"
             }
           },
           {
@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "cdc00950971753d1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Trash/Docu003-focalboard vs Trello vs asana vs monday.com.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Docu003-focalboard vs Trello vs asana vs monday.com"
-            }
-          },
-          {
             "id": "d4c5c9905a827c8e",
             "type": "leaf",
             "state": {
@@ -53,18 +41,6 @@
               },
               "icon": "lucide-file-text",
               "title": "Docu001-Assig4_prolip_SomeClinet requirements"
-            }
-          },
-          {
-            "id": "8cd73518b54daaa1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Trash/Docu002-Focalboard SOP detailed.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Docu002-Focalboard SOP detailed"
             }
           },
           {
@@ -80,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -244,16 +220,19 @@
   },
   "active": "5643011f857418e1",
   "lastOpenFiles": [
-    "Trash/Docu003-focalboard vs Trello vs asana vs monday.com.pdf",
-    "Trash/Docu005-S SOP_Redis.pdf",
-    "Trash/Docu006-Redis_Question_answer.pdf",
-    "Trash/Docu002-Focalboard SOP detailed.pdf",
-    "Linux-Documentations/Docu004-LINUX- Project Assignment.pdf",
-    "Linux-Documentations/Docu001-Assig4_prolip_SomeClinet requirements.pdf",
+    "Archieve/Docu010-Bandit Overthewire Assignment fun.pdf",
+    "Archieve/Docu009-Intstallation Doc Script python3,java.pdf",
+    "Archieve/Docu008-ubuntu installation cli.pdf",
+    "Archieve/Docu006-Redis_Question_answer.pdf",
+    "Archieve/Docu005-S SOP_Redis.pdf",
+    "Archieve/Docu003-focalboard vs Trello vs asana vs monday.com.pdf",
+    "Archieve/Docu002-Focalboard SOP detailed.pdf",
+    "Archieve",
+    "Trash/Docu009-Intstallation Doc Script python3,java.pdf",
+    "Trash/Docu010-Bandit Overthewire Assignment fun.pdf",
+    "Linux-Documentations/Docu010-Bandit Overthewire Assignment fun.pdf",
     "0_How it is organized.md",
     "README.md",
-    "Trash",
-    "01 Prodevans Internship/short documentation of configuration project.pdf",
     "01 Prodevans Internship/README.md",
     "Linux-Documentations/Docu007-OverTheWire-Que-Ans stuff/Que5.png",
     "Linux-Documentations/Docu007-OverTheWire-Que-Ans stuff/Que4.png",
