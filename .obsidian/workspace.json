@@ -47,12 +47,14 @@
             "id": "26c4613b13d57518",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Linux-Documentations/Docu001-Assig4_prolip_SomeClinet requirements.pdf"
+                "file": "0_How it is organized.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Docu001-Assig4_prolip_SomeClinet requirements"
+              "icon": "lucide-file",
+              "title": "0_How it is organized"
             }
           }
         ],
@@ -129,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux-Documentations/Docu001-Assig4_prolip_SomeClinet requirements.pdf",
+                "file": "0_How it is organized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Docu001-Assig4_prolip_SomeClinet requirements"
+              "title": "Backlinks for 0_How it is organized"
             }
           },
           {
@@ -148,12 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux-Documentations/Docu001-Assig4_prolip_SomeClinet requirements.pdf",
+                "file": "0_How it is organized.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Docu001-Assig4_prolip_SomeClinet requirements"
+              "title": "Outgoing links from 0_How it is organized"
             }
           },
           {
@@ -191,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux-Documentations/Docu001-Assig4_prolip_SomeClinet requirements.pdf",
+                "file": "0_How it is organized.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Docu001-Assig4_prolip_SomeClinet requirements"
+              "title": "Outline of 0_How it is organized"
             }
           }
         ]
@@ -218,8 +220,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "5643011f857418e1",
+  "active": "26c4613b13d57518",
   "lastOpenFiles": [
+    "Linux-Documentations/Docu001-Assig4_prolip_SomeClinet requirements.pdf",
     "Archieve/Docu010-Bandit Overthewire Assignment fun.pdf",
     "Archieve/Docu009-Intstallation Doc Script python3,java.pdf",
     "Archieve/Docu008-ubuntu installation cli.pdf",
@@ -230,7 +233,6 @@
     "Archieve",
     "Trash/Docu009-Intstallation Doc Script python3,java.pdf",
     "Trash/Docu010-Bandit Overthewire Assignment fun.pdf",
-    "Linux-Documentations/Docu010-Bandit Overthewire Assignment fun.pdf",
     "0_How it is organized.md",
     "README.md",
     "01 Prodevans Internship/README.md",
