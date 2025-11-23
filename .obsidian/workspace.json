@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "158c77140d1b40a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b76854cc4c942466",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fab3e6d4d5f6b4d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Trash/Docu002-Focalboard SOP detailed.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Docu002-Focalboard SOP detailed"
+            }
+          },
+          {
+            "id": "224d16d3b2d66421",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Linux-Documentations/Docu004-LINUX- Project Assignment.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Docu004-LINUX- Project Assignment"
+            }
+          },
+          {
+            "id": "cdc00950971753d1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Trash/Docu003-focalboard vs Trello vs asana vs monday.com.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Docu003-focalboard vs Trello vs asana vs monday.com"
+            }
+          },
+          {
+            "id": "d4c5c9905a827c8e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Linux-Documentations/Docu001-Assig4_prolip_SomeClinet requirements.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Docu001-Assig4_prolip_SomeClinet requirements"
+            }
+          },
+          {
+            "id": "8cd73518b54daaa1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Trash/Docu002-Focalboard SOP detailed.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Docu002-Focalboard SOP detailed"
+            }
+          },
+          {
+            "id": "26c4613b13d57518",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Linux-Documentations/Docu001-Assig4_prolip_SomeClinet requirements.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Docu001-Assig4_prolip_SomeClinet requirements"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b146c069794294be",
+    "type": "split",
+    "children": [
+      {
+        "id": "54f8d2c91ed0bba2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5643011f857418e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9538b07de68836f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "27709ffcd484aab7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a1f292b8697841b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "73f5980338668c30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "573814636b024053",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux-Documentations/Docu001-Assig4_prolip_SomeClinet requirements.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Docu001-Assig4_prolip_SomeClinet requirements"
+            }
+          },
+          {
+            "id": "40a69184a3ffc959",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux-Documentations/Docu001-Assig4_prolip_SomeClinet requirements.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Docu001-Assig4_prolip_SomeClinet requirements"
+            }
+          },
+          {
+            "id": "1194d4c526ccd894",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6c6728a51e532760",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "49d87493a4c0b588",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux-Documentations/Docu001-Assig4_prolip_SomeClinet requirements.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Docu001-Assig4_prolip_SomeClinet requirements"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5643011f857418e1",
+  "lastOpenFiles": [
+    "Trash/Docu003-focalboard vs Trello vs asana vs monday.com.pdf",
+    "Trash/Docu005-S SOP_Redis.pdf",
+    "Trash/Docu006-Redis_Question_answer.pdf",
+    "Trash/Docu002-Focalboard SOP detailed.pdf",
+    "Linux-Documentations/Docu004-LINUX- Project Assignment.pdf",
+    "Linux-Documentations/Docu001-Assig4_prolip_SomeClinet requirements.pdf",
+    "0_How it is organized.md",
+    "README.md",
+    "Trash",
+    "01 Prodevans Internship/short documentation of configuration project.pdf",
+    "01 Prodevans Internship/README.md",
+    "Linux-Documentations/Docu007-OverTheWire-Que-Ans stuff/Que5.png",
+    "Linux-Documentations/Docu007-OverTheWire-Que-Ans stuff/Que4.png",
+    "Linux-Documentations/Docu007-OverTheWire-Que-Ans stuff/Que3.png",
+    "Linux-Documentations/Docu007-OverTheWire-Que-Ans stuff/Que2.png",
+    "Linux-Documentations/Docu007-OverTheWire-Que-Ans stuff/Que1.png"
+  ]
+}
