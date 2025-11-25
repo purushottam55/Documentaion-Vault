@@ -4,61 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "b76854cc4c942466",
+        "id": "538bacff762d8331",
         "type": "tabs",
         "children": [
           {
-            "id": "4fab3e6d4d5f6b4d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Linux-Documentations/Docu001-Assig4_prolip_SomeClinet requirements.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Docu001-Assig4_prolip_SomeClinet requirements"
-            }
-          },
-          {
-            "id": "224d16d3b2d66421",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Linux-Documentations/Docu004-LINUX- Project Assignment.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Docu004-LINUX- Project Assignment"
-            }
-          },
-          {
-            "id": "d4c5c9905a827c8e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Linux-Documentations/Docu001-Assig4_prolip_SomeClinet requirements.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Docu001-Assig4_prolip_SomeClinet requirements"
-            }
-          },
-          {
-            "id": "26c4613b13d57518",
+            "id": "6cd59169336c3a14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_How it is organized.md",
+                "file": "Openshift Redhat-Notes/Archieve/OCP004-Interview Prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0_How it is organized"
+              "title": "OCP004-Interview Prep"
+            }
+          },
+          {
+            "id": "43ebfbf567bdc7f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Openshift Redhat-Notes/OCP004a3-OpenShift Administration — 10 Core Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OCP004a3-OpenShift Administration — 10 Core Questions"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,19 +198,38 @@
       "bases:Create new base": false
     }
   },
-  "active": "26c4613b13d57518",
+  "active": "43ebfbf567bdc7f9",
   "lastOpenFiles": [
-    "Linux-Documentations/Docu001-Assig4_prolip_SomeClinet requirements.pdf",
-    "Archieve/Docu010-Bandit Overthewire Assignment fun.pdf",
-    "Archieve/Docu009-Intstallation Doc Script python3,java.pdf",
-    "Archieve/Docu008-ubuntu installation cli.pdf",
-    "Archieve/Docu006-Redis_Question_answer.pdf",
-    "Archieve/Docu005-S SOP_Redis.pdf",
-    "Archieve/Docu003-focalboard vs Trello vs asana vs monday.com.pdf",
-    "Archieve/Docu002-Focalboard SOP detailed.pdf",
-    "Archieve",
-    "Trash/Docu009-Intstallation Doc Script python3,java.pdf",
-    "Trash/Docu010-Bandit Overthewire Assignment fun.pdf",
+    "Openshift Redhat-Notes/OCP004a2-OCP 50 Questions.md",
+    "Openshift Redhat-Notes/OCP004a1-mock interview mode.md",
+    "Openshift Redhat-Notes/Archieve/OCP004-Interview Prep.md",
+    "Openshift Redhat-Notes/Archieve",
+    "Openshift Redhat-Notes/OCP003a2 - Flow chart for deployment of OCP.md",
+    "Openshift Redhat-Notes/OCP000B Docker Basics Quick Start Guide.md",
+    "Openshift Redhat-Notes/OCP00A1-Exam Prep Cards.md",
+    "Openshift Redhat-Notes/OCP000A2 tausif dumps OCp.pdf",
+    "Openshift Redhat-Notes/OCP004a3-OpenShift Administration — 10 Core Questions.md",
+    "Openshift Redhat-Notes/OCP099-NEXT.md",
+    "Openshift Redhat-Notes/OCP003a1-Ocp above note - understanding curiosity driven.md",
+    "Openshift Redhat-Notes/OCP003 - Deploying OCP - CHATGPT REFERENCE.md",
+    "Openshift Redhat-Notes/OCP002b4 - On which os the OpenShift runs.md",
+    "Openshift Redhat-Notes/OCP002b3 RoundRobinKya hai.md",
+    "Openshift Redhat-Notes/OCP002b2- Route in OCP.md",
+    "Openshift Redhat-Notes/OCP002a2-Basics of OCP @mcxlearn.md",
+    "Openshift Redhat-Notes/OCP002 - Basics - Openshift fundamental information.md",
+    "Openshift Redhat-Notes/OCP001 Indetation of Openshift.md",
+    "Openshift Redhat-Notes/OCP001a2 - CodeBlock of Yaml written in OCP.md",
+    "Openshift Redhat-Notes/OCP002b-Understanding OpenShift Networking Flow.md",
+    "Openshift Redhat-Notes/OCP001a YAML Metadata & Labels in OpenShift.md",
+    "Archieve/Trash.md",
+    "Openshift Redhat-Notes/Staging/Storage Management.docx",
+    "Openshift Redhat-Notes/Staging/SSH & backup and remote data trancefer.docx",
+    "Openshift Redhat-Notes/Staging/Process manangement.docx",
+    "Openshift Redhat-Notes/Staging/OS overview.docx",
+    "Openshift Redhat-Notes/Staging/Openshift installtion.docx",
+    "Openshift Redhat-Notes/Staging/networking 1.docx",
+    "Openshift Redhat-Notes/Staging/networking.docx",
+    "Openshift Redhat-Notes/Staging/Log mangement.docx",
     "0_How it is organized.md",
     "README.md",
     "01 Prodevans Internship/README.md",

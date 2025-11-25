@@ -63,6 +63,3 @@
      ```  
 
 With these fundamentals, you're ready to build, deploy, and manage containers efficiently. Keep experimenting and exploring! 🐳
-
-
-Also see :

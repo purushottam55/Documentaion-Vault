@@ -29,5 +29,5 @@ metadata:
     
 ```      aslo see more info [[T-OCP-OO2 know syntax for lables and metadata]]
 ```
-SEE MORE  => [[OCP002 YAML Metadata & Labels in OpenShift]]
-View code block example from where to where scope of the code is [[OCP003 - CodeBlock of Yaml written in OCP]]
+SEE MORE  => [[OCP001a YAML Metadata & Labels in OpenShift]]
+View code block example from where to where scope of the code is [[OCP001a2 - CodeBlock of Yaml written in OCP]]

@@ -184,22 +184,3 @@ That’s the value I’ll bring here as well.”
 
 That hits them in hiring psychology.
 
-––––––––––––––––––
-
-Small Distilled Recall Note
-
-Be systematic, measurable, automation-focused.
-Sell stability, speed, and risk reduction.
-Think like an owner, speak like a system.
-
-––––––––––––––––––
-
-If you want, I’ll prepare:
-→ Mock interview
-→ 50 mandatory OpenShift questions
-→ HR + technical combined script
-→ Your introduction (super sharp)
-→ Company-specific pitch
-
-You choose the next layer.
-[[OCP012a1-mock interview mode]]

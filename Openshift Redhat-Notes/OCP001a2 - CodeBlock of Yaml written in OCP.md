@@ -24,6 +24,7 @@ spec:
 
 ```
 
+**If shown in code blocks**
 
 ```
 YAML just removes `{ }`, `"` and uses **spaces** instead:
