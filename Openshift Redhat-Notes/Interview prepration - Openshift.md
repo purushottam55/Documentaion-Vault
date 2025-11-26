@@ -18,19 +18,6 @@ On Amazon Web Services (AWS) and Google Cloud, Red Hat OpenShift Dedicated is a 
 
 ![](https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/002/739/original/OpenShift_Dedicated.png?1643985623)
 
-![](https://assets.interviewbit.com/assets/ibpp/interview_guides/assets/desktop/study_plan-fb58ec94dd27940f470d62dee6d85c8161f6afc2b9dcbced18278212ce50b8b9.svg.gz)
-
-Create a free personalised study plan
-
-Get into your dream companies with expert guidance
-
-![](https://assets.interviewbit.com/assets/ibpp/interview_guides/assets/code-99b8ddab28469d3e18187c7e7f62dcf921ece612e63043b7515547d441ea3ebb.svg.gz)Real-Life Problems
-
-![](https://assets.interviewbit.com/assets/ibpp/interview_guides/assets/suitcase-7129128344fb59d27c28914ce39a52b40df37b3da954c23330359726019a8fb7.svg.gz)Prep for Target Roles
-
-![](https://assets.interviewbit.com/assets/ibpp/interview_guides/assets/pencil-aaf6423aa93927b3965ae3006bc88653f14fee9586297e82fa1153ab475c8459.svg.gz)Custom Plan Duration
-
-[Create My Plan![](https://assets.interviewbit.com/assets/ibpp/interview_guides/assets/arrow-right-54a813c1b9b6df712c72a314c89081e5a96674ee7ee6454dd7c063d0fe79bb1c.svg.gz)](https://www.interviewbit.com/interview-preparation-kit/)
 
 ### 2. What are the benefits of using DevOps tools?
 
@@ -39,7 +26,6 @@ Get into your dream companies with expert guidance
 ### 3. What are the most common OpenShift build strategies?
 
 Docker strategy, custom strategy, Source to Image strategy, and pipeline strategy are the most frequent build strategies in OpenShift.
-
 You can download a PDF version of Openshift Interview Questions.
 
 
