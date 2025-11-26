@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Openshift Redhat-Notes/OCP004a2-OCP 50 Questions.md",
+                "file": "Openshift Redhat-Notes/OCP099-NEXT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OCP004a2-OCP 50 Questions"
+              "title": "OCP099-NEXT"
+            }
+          },
+          {
+            "id": "5278cab1e7050031",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Openshift Redhat-Notes/Interview prepration - Openshift.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interview prepration - Openshift"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,11 +212,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "43ebfbf567bdc7f9",
+  "active": "5643011f857418e1",
   "lastOpenFiles": [
+    "Openshift Redhat-Notes/OCP099-NEXT.md",
+    "Openshift Redhat-Notes/Interview prepration - Openshift.md",
+    "Openshift Redhat-Notes/OCP004a2-OCP 50 Questions.md",
     "Openshift Redhat-Notes/OCP003a2 - Flow chart for deployment of OCP.md",
     "Openshift Redhat-Notes/OCP003a1-Ocp above note - understanding curiosity driven.md",
-    "Openshift Redhat-Notes/OCP004a2-OCP 50 Questions.md",
     "Openshift Redhat-Notes/OCP003 - Deploying OCP - CHATGPT REFERENCE.md",
     "Openshift Redhat-Notes/Staging/~$enshift installtion.docx",
     "Openshift Redhat-Notes/OCP002a1-Basics of OCP @mcxlearn.md",
@@ -215,7 +231,6 @@
     "Openshift Redhat-Notes/OCP000B Docker Basics Quick Start Guide.md",
     "Openshift Redhat-Notes/OCP00A1-Exam Prep Cards.md",
     "Openshift Redhat-Notes/OCP000A2 tausif dumps OCp.pdf",
-    "Openshift Redhat-Notes/OCP099-NEXT.md",
     "Openshift Redhat-Notes/OCP002b4 - On which os the OpenShift runs.md",
     "Openshift Redhat-Notes/OCP002b3 RoundRobinKya hai.md",
     "Openshift Redhat-Notes/OCP002b2- Route in OCP.md",
