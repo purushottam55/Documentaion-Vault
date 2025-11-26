@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Openshift Redhat-Notes/OCP004a3-OpenShift Administration — 10 Core Questions.md",
+                "file": "Openshift Redhat-Notes/OCP004a2-OCP 50 Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OCP004a3-OpenShift Administration — 10 Core Questions"
+              "title": "OCP004a2-OCP 50 Questions"
             }
           }
         ],
@@ -200,26 +200,27 @@
   },
   "active": "43ebfbf567bdc7f9",
   "lastOpenFiles": [
+    "Openshift Redhat-Notes/OCP003a2 - Flow chart for deployment of OCP.md",
+    "Openshift Redhat-Notes/OCP003a1-Ocp above note - understanding curiosity driven.md",
     "Openshift Redhat-Notes/OCP004a2-OCP 50 Questions.md",
+    "Openshift Redhat-Notes/OCP003 - Deploying OCP - CHATGPT REFERENCE.md",
+    "Openshift Redhat-Notes/Staging/~$enshift installtion.docx",
+    "Openshift Redhat-Notes/OCP002a1-Basics of OCP @mcxlearn.md",
+    "Openshift Redhat-Notes/OCP002 - Basics - Openshift fundamental information.md",
+    "Openshift Redhat-Notes/OCP002b1-Understanding OpenShift Networking Flow.md",
     "Openshift Redhat-Notes/OCP004a1-mock interview mode.md",
+    "Openshift Redhat-Notes/OCP004a3-OpenShift Administration — 10 Core Questions.md",
     "Openshift Redhat-Notes/Archieve/OCP004-Interview Prep.md",
     "Openshift Redhat-Notes/Archieve",
-    "Openshift Redhat-Notes/OCP003a2 - Flow chart for deployment of OCP.md",
     "Openshift Redhat-Notes/OCP000B Docker Basics Quick Start Guide.md",
     "Openshift Redhat-Notes/OCP00A1-Exam Prep Cards.md",
     "Openshift Redhat-Notes/OCP000A2 tausif dumps OCp.pdf",
-    "Openshift Redhat-Notes/OCP004a3-OpenShift Administration — 10 Core Questions.md",
     "Openshift Redhat-Notes/OCP099-NEXT.md",
-    "Openshift Redhat-Notes/OCP003a1-Ocp above note - understanding curiosity driven.md",
-    "Openshift Redhat-Notes/OCP003 - Deploying OCP - CHATGPT REFERENCE.md",
     "Openshift Redhat-Notes/OCP002b4 - On which os the OpenShift runs.md",
     "Openshift Redhat-Notes/OCP002b3 RoundRobinKya hai.md",
     "Openshift Redhat-Notes/OCP002b2- Route in OCP.md",
-    "Openshift Redhat-Notes/OCP002a2-Basics of OCP @mcxlearn.md",
-    "Openshift Redhat-Notes/OCP002 - Basics - Openshift fundamental information.md",
     "Openshift Redhat-Notes/OCP001 Indetation of Openshift.md",
     "Openshift Redhat-Notes/OCP001a2 - CodeBlock of Yaml written in OCP.md",
-    "Openshift Redhat-Notes/OCP002b-Understanding OpenShift Networking Flow.md",
     "Openshift Redhat-Notes/OCP001a YAML Metadata & Labels in OpenShift.md",
     "Archieve/Trash.md",
     "Openshift Redhat-Notes/Staging/Storage Management.docx",
@@ -229,7 +230,6 @@
     "Openshift Redhat-Notes/Staging/Openshift installtion.docx",
     "Openshift Redhat-Notes/Staging/networking 1.docx",
     "Openshift Redhat-Notes/Staging/networking.docx",
-    "Openshift Redhat-Notes/Staging/Log mangement.docx",
     "0_How it is organized.md",
     "README.md",
     "01 Prodevans Internship/README.md",
