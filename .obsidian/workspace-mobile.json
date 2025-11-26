@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Openshift Redhat-Notes/OCP007-Understanding OpenShift Networking Flow.md",
-                "mode": "preview",
+                "file": "Openshift Redhat-Notes/OCP099-NEXT.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OCP007-Understanding OpenShift Networking Flow"
+              "title": "OCP099-NEXT"
             }
           }
         ]
@@ -170,6 +170,8 @@
   },
   "active": "9e6460fdb724a250",
   "lastOpenFiles": [
+    "Openshift Redhat-Notes/OCP004a3-OpenShift Administration — 10 Core Questions.md",
+    "Openshift Redhat-Notes/OCP099-NEXT.md",
     "Openshift Redhat-Notes/OCP006b - Flow chart for deployment of OCP.md",
     "Openshift Redhat-Notes/OCP003 - CodeBlock of Yaml written in OCP.md",
     "Openshift Redhat-Notes/OCP012a2-OCP 50 Questions.md",
