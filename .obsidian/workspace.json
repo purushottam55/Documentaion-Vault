@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Interview prepration - Openshift"
             }
+          },
+          {
+            "id": "da2ba26f025de012",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,7 +224,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "5643011f857418e1",
+  "active": "da2ba26f025de012",
   "lastOpenFiles": [
     "Openshift Redhat-Notes/OCP099-NEXT.md",
     "Openshift Redhat-Notes/Interview prepration - Openshift.md",
