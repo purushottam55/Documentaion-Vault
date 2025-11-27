@@ -61,8 +61,7 @@
               "title": "Release Notes 1.10.6"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -224,7 +224,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "da2ba26f025de012",
+  "active": "6cd59169336c3a14",
   "lastOpenFiles": [
     "Openshift Redhat-Notes/OCP099-NEXT.md",
     "Openshift Redhat-Notes/Interview prepration - Openshift.md",
