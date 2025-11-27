@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Openshift Redhat-Notes/OCP099-NEXT.md",
+                "file": "Forex/Forex - A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OCP099-NEXT"
+              "title": "Forex - A"
             }
           }
         ]
@@ -170,8 +170,16 @@
   },
   "active": "9e6460fdb724a250",
   "lastOpenFiles": [
-    "Openshift Redhat-Notes/OCP004a3-OpenShift Administration — 10 Core Questions.md",
+    "Forex/Forex001a-gpt-Curious question answer.md",
+    "Forex/Forex001a6-  Retail Traders ka sabase bada trap.md",
+    "Forex/Forex001a5- Forex me kitana paisa hai.md",
+    "Forex/Forex001a4-Liquidity zone kya hote hain.md",
+    "Forex/Forex001a3.md",
+    "Forex/Forex001a2.md",
+    "Forex/Forex - A.md",
     "Openshift Redhat-Notes/OCP099-NEXT.md",
+    "Openshift Redhat-Notes/Interview prepration - Openshift.md",
+    "Openshift Redhat-Notes/OCP004a3-OpenShift Administration — 10 Core Questions.md",
     "Openshift Redhat-Notes/OCP006b - Flow chart for deployment of OCP.md",
     "Openshift Redhat-Notes/OCP003 - CodeBlock of Yaml written in OCP.md",
     "Openshift Redhat-Notes/OCP012a2-OCP 50 Questions.md",
