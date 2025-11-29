@@ -11,14 +11,10 @@
             "id": "9e6460fdb724a250",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hii.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hii"
+              "title": "New tab"
             }
           }
         ]
@@ -170,8 +166,8 @@
   },
   "active": "9e6460fdb724a250",
   "lastOpenFiles": [
-    "Linux-Notes/Linux-008-Tmux and Some Linux Commands.md",
     "Hii.md",
+    "Linux-Notes/Linux-008-Tmux and Some Linux Commands.md",
     "Forex/Forex - A.md",
     "Forex/Forex001a-gpt-Curious question answer.md",
     "Forex/Forex001a6-  Retail Traders ka sabase bada trap.md",
