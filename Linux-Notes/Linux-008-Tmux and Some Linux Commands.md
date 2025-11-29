@@ -17,7 +17,6 @@ tmux a -t datacopy
 In the screen ctl+c
 
 
-
 -----
 
 ## Set Grub password 
@@ -60,7 +59,6 @@ tail -f var/log/secure
 
 ### Check Connectivity 
 nc -vz ip port
-
 
 
 $ nmap -p- destinationIP

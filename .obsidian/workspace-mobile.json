@@ -11,10 +11,10 @@
             "id": "9e6460fdb724a250",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -166,10 +166,14 @@
   },
   "active": "9e6460fdb724a250",
   "lastOpenFiles": [
-    "Hii.md",
     "Linux-Notes/Linux-008-Tmux and Some Linux Commands.md",
-    "Forex/Forex - A.md",
+    "Linux-Notes/Linux001-SUID & SGID.md",
+    "Linux-Notes/Linux002-Dracut me fas gaya.md",
     "Forex/Forex001a-gpt-Curious question answer.md",
+    "Linux-Documentations/0_How it is organized.md",
+    "Archieve/Docu008-ubuntu installation cli.pdf",
+    "Hii.md",
+    "Forex/Forex - A.md",
     "Forex/Forex001a6-  Retail Traders ka sabase bada trap.md",
     "Forex/Forex001a5- Forex me kitana paisa hai.md",
     "Forex/Forex001a4-Liquidity zone kya hote hain.md",
@@ -188,9 +192,6 @@
     "Openshift Redhat-Notes/OCP009 Docker Basics Quick Start Guide.md",
     "Openshift Redhat-Notes/OCP008a2 RoundRobinKya hai.md",
     "Openshift Redhat-Notes/OCP008a1- Route in OCP.md",
-    "Openshift Redhat-Notes/OCP008-Basics of OCP @mcxlearn.md",
-    "Openshift Redhat-Notes/OCP007-Understanding OpenShift Networking Flow.md",
-    "Openshift Redhat-Notes/OCP006 - Deploying OCP - CHATGPT REFERENCE.md",
-    "Openshift Redhat-Notes/OCP005 - Openshift fundamental information.md"
+    "Openshift Redhat-Notes/OCP008-Basics of OCP @mcxlearn.md"
   ]
 }
