@@ -2,5 +2,6 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "Forex"
+  "newFileFolderPath": "Openshift Redhat-Notes/Staging",
+  "attachmentFolderPath": "attachments"
 }

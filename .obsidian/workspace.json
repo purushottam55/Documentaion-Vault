@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forex/OCP-DEP.md",
+                "file": "Openshift Redhat-Notes/Staging/OCP-DEPLOYMENT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OCP-DEP"
+              "title": "OCP-DEPLOYMENT"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "1e03b760dd7043e3",
   "lastOpenFiles": [
+    "Openshift Redhat-Notes/Staging/~$enshift installtion.docx",
+    "Openshift Redhat-Notes/Staging/OCP.md",
     "Forex/OCP-DEP.md",
     "Openshift Redhat-Notes/Archieve/OCP004-Interview Prep.md",
     "Openshift Redhat-Notes/OCP099-NEXT.md",
@@ -193,7 +195,6 @@
     "Openshift Redhat-Notes/OCP003a2 - Flow chart for deployment of OCP.md",
     "Openshift Redhat-Notes/OCP003a1-Ocp above note - understanding curiosity driven.md",
     "Openshift Redhat-Notes/OCP003 - Deploying OCP - CHATGPT REFERENCE.md",
-    "Openshift Redhat-Notes/Staging/~$enshift installtion.docx",
     "Openshift Redhat-Notes/OCP002a1-Basics of OCP @mcxlearn.md",
     "Openshift Redhat-Notes/OCP002 - Basics - Openshift fundamental information.md",
     "Openshift Redhat-Notes/OCP002b1-Understanding OpenShift Networking Flow.md",
@@ -219,7 +220,6 @@
     "Openshift Redhat-Notes/Staging/networking.docx",
     "0_How it is organized.md",
     "README.md",
-    "01 Prodevans Internship/README.md",
     "Linux-Documentations/Docu007-OverTheWire-Que-Ans stuff/Que5.png",
     "Linux-Documentations/Docu007-OverTheWire-Que-Ans stuff/Que4.png",
     "Linux-Documentations/Docu007-OverTheWire-Que-Ans stuff/Que3.png",
