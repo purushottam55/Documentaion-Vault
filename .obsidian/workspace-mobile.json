@@ -11,10 +11,14 @@
             "id": "9e6460fdb724a250",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Dash-Board/001 Openshift Redhat.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "001 Openshift Redhat"
             }
           }
         ]
@@ -32,7 +36,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTime",
+            "sortOrder": "alphabetical",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -141,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Forex/Untitled.md",
+            "file": "Dash-Board/001 Openshift Redhat.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -161,12 +165,30 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "9e6460fdb724a250",
   "lastOpenFiles": [
+    "Dash-Board/All Notes.md",
+    "Dash-Board/001 Openshift Redhat.md",
+    "Dash-Board/One view - Status.md",
+    "Openshift Redhat-Notes/Archieve/OCP004-Interview Prep.md",
     "read.md",
+    "Openshift Redhat-Notes/Staging/OCP0a.md",
+    "Templates/OCP_S---.md",
+    "Openshift Redhat-Notes/Staging/OCP.md",
+    "Openshift Redhat-Notes/Staging/LINUX_S001.md",
+    "Linux-Documentations/Untitled",
+    "Literature",
+    "Templates/LINUX_S---.md",
+    "Templates/FOREX_S003.md",
+    "Templates/FOREX_S001.md",
+    "Templates/FOREX_S---.md",
+    "Templates/Sequences.md",
+    "Templates/HLT---.md",
+    "Templates/BK---.md",
     "Forex/Untitled.md",
     "Openshift Redhat-Notes/Untitled.md",
     "Openshift Redhat-Notes/OCP002 - Basics - Openshift fundamental information.md",
@@ -177,21 +199,6 @@
     "Openshift Redhat-Notes/OCP002b1-Understanding OpenShift Networking Flow.md",
     "Linux-Notes/Linux-008-Tmux and Some Linux Commands.md",
     "Linux-Notes/Linux001-SUID & SGID.md",
-    "Linux-Notes/Linux002-Dracut me fas gaya.md",
-    "Forex/Forex001a-gpt-Curious question answer.md",
-    "Linux-Documentations/0_How it is organized.md",
-    "Archieve/Docu008-ubuntu installation cli.pdf",
-    "Hii.md",
-    "Forex/Forex - A.md",
-    "Forex/Forex001a6-  Retail Traders ka sabase bada trap.md",
-    "Forex/Forex001a5- Forex me kitana paisa hai.md",
-    "Forex/Forex001a4-Liquidity zone kya hote hain.md",
-    "Forex/Forex001a3.md",
-    "Forex/Forex001a2.md",
-    "Openshift Redhat-Notes/OCP004a3-OpenShift Administration — 10 Core Questions.md",
-    "Openshift Redhat-Notes/OCP006b - Flow chart for deployment of OCP.md",
-    "Openshift Redhat-Notes/OCP003 - CodeBlock of Yaml written in OCP.md",
-    "Openshift Redhat-Notes/OCP012a2-OCP 50 Questions.md",
-    "Openshift Redhat-Notes/OCP012a1-mock interview mode.md"
+    "Archieved/Docu008-ubuntu installation cli.pdf"
   ]
 }
