@@ -1,3 +1,10 @@
+---
+created: 2025-12-03
+---
+
+
+#ocp #stagging 
+
 Here’s a crisp, interview-ready set of answers you can fire off confidently. No fluff, just clean clarity—so you look like the person who actually runs systems, not someone who just read about them.
 
 Kubeadm: A tool used to bootstrap and manage Kubernetes clusters (init, join, upgrade).

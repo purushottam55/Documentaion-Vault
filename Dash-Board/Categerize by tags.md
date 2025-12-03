@@ -4,7 +4,7 @@
 ```dataview
 TABLE rows.file.link AS Notes
 FLATTEN file.tags AS tag
-WHERE tag AND startswith(file.folder, "All Notes")
+WHERE tag 
 GROUP BY tag
 SORT tag ASC
 ```
