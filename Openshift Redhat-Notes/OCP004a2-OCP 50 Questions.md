@@ -27,7 +27,7 @@ External exposure via HAProxy. Supports edge/reencrypt/passthrough TLS.
 
 ✅ 7. Explain health probes.
 
-Readiness = traffic allowed.
+Readiness = traffic allowed. #doubt <!--  isaka meaning ka hai ?>
 Liveness = restart logic.
 
 ✅ 8. What is RBAC?
@@ -38,13 +38,18 @@ ClusterRole/ClusterRoleBinding → cluster-wide.
 
 ✅ 9. What is a PVC?
 
-Claim made by a pod to request persistent storage.
+Claim made by a pod to request persistent storage.  
+<!-- claim me hota kya hai ? -->
 
 ✅ 10. What is a StorageClass?
 
-Defines provisioning backend + parameters.
+Defines provisioning backend + parameters. 
+<!-- Yaha parameter yani disk type, fsType, replication, etc.-->
+<!-- provisioning backend = storage banane wala system/driver -->
 
-----
+---
+
+ #continueocp
 
 ✅ 11. Why PVC stuck in Pending?
 
