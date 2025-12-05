@@ -1,14 +1,4 @@
-Great. I’ll give you the full premium pack now — the exact blocks you need to crack interviews fast and confidently.
 
-I’ll deliver them in a clean, high-impact sequence.
-
-––––––––––––––––––
-
-✅ BLOCK 1 — 50 OpenShift Interview Questions (With Perfect Answers)
-
-These are the core questions companies always ask.
-
-I’ll keep answers short, sharp, and production-relevant.
 
 ✅ 1. What is OpenShift?
 
@@ -53,6 +43,8 @@ Claim made by a pod to request persistent storage.
 ✅ 10. What is a StorageClass?
 
 Defines provisioning backend + parameters.
+
+----
 
 ✅ 11. Why PVC stuck in Pending?
 
